@@ -1,20 +1,19 @@
 ## OVERVIEW
 
-Django,free and opensource web framework,which allows us to create secure and well maintained websites.Primary goal of django is to make the development of complex database driven websites easy.
-In order to write web applications in python directly basic requirements include:
+Django, a free and open-source web framework, allows us to create secure and well-maintained websites. The primary goal of Django is to make the development of complex database-driven websites easy.
+To write web applications in Python directly, these are the basic requirements:
 
-1.Web server gateway interface.
+1. Web server gateway interface.
 
-2.Routing
+2. Routing
 
-3.SQL Interface
+3. SQL Interface
 
-4.Template
+4. Template
 
-On the other hand Django includes all of the above mention features hence it becomes easy for one to write web application.One can focus on the designing part and writing of the web application without taking care of the above features.Various sites that use django includes Pinterest Public Broadcasting Service, Instagram, Mozilla, The Washington Times, Disqus, Bitbucket and Nextdoor.
+Since Django includes all of the above-mentioned features, it becomes easy for one to write a web application. One can focus on the design and writing of the web application without taking care of the above features. Some of the popular sites that use Django are Pinterest, Public Broadcasting Service, Instagram, Mozilla, The Washington Times, Disqus, Bitbucket, and Nextdoor.
 
-
-Django is fast,fully loaded,secure,scalable(can handle large increase in users,traffic on various sites) and versatile.Despite of the above stated advantages django is bad for large applications and it comes with tons of perbuilt features which may or maynot be used.
+Django is fast, fully loaded, secure, scalable(can handle a large increase in users, traffic on various sites), and versatile. Despite the above-stated advantages, Django is bad for large applications, and it comes with tons of prebuilt features that may or may not be used.
 
 
 
